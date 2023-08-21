@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Diane",
+    "type": "知識型",
+    "function": "學術領導/知識分享/智能問答"
+  },
+  {
+    "name": "Felix",
+    "type": "娛樂型",
+    "function": "音樂播放/語音互動/遊戲陪伴"
+  },
+  {
+    "name": "Karina",
+    "type": "生活型",
+    "function": "健康提醒/日程安排/智能家居"
+  },
+  {
+    "name": "Vito",
+    "type": "情感型",
+    "function": "情感識別/心情分析/心靈支持"
+  },
+]
