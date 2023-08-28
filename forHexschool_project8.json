@@ -4,8 +4,8 @@
     "type": "知識型",
     "function": "學術領導/知識分享/智能問答",
     "image": {
-      "1": "https://github.com/Gingene/2023hexschool-webdesign-project8-ai/blob/dev/assets/images/diane_square1.png?raw=true",
-      "2": "https://github.com/Gingene/2023hexschool-webdesign-project8-ai/blob/dev/assets/images/diane_square2.png?raw=true"
+      "p1": "https://github.com/Gingene/2023hexschool-webdesign-project8-ai/blob/dev/assets/images/diane_square1.png?raw=true",
+      "p2": "https://github.com/Gingene/2023hexschool-webdesign-project8-ai/blob/dev/assets/images/diane_square2.png?raw=true"
     },
     "info": {
       "title": "歡迎來到ALPHABOX+的全新世界！在這裡，我們很榮幸地向您介紹我們的最新力作 - 3D立體投影機器人 Diane！",
@@ -27,8 +27,8 @@
     "type": "娛樂型",
     "function": "音樂播放/語音互動/遊戲陪伴",
     "image": {
-      "1": "https://github.com/Gingene/2023hexschool-webdesign-project8-ai/blob/dev/assets/images/felix_square1.png?raw=true",
-      "2": "https://github.com/Gingene/2023hexschool-webdesign-project8-ai/blob/dev/assets/images/felix_square2.png?raw=true"
+      "p1": "https://github.com/Gingene/2023hexschool-webdesign-project8-ai/blob/dev/assets/images/felix_square1.png?raw=true",
+      "p2": "https://github.com/Gingene/2023hexschool-webdesign-project8-ai/blob/dev/assets/images/felix_square2.png?raw=true"
     },
     "info": {
       "title": "歡迎來到ALPHABOX+的全新世界！在這裡，我們很榮幸地向您介紹我們的最新力作 - 3D立體投影機器人 Felix！",
@@ -50,8 +50,8 @@
     "type": "生活型",
     "function": "健康提醒/日程安排/智能家居",
     "image": {
-      "1": "https://github.com/Gingene/2023hexschool-webdesign-project8-ai/blob/dev/assets/images/karina_square1.png?raw=true",
-      "2": "https://github.com/Gingene/2023hexschool-webdesign-project8-ai/blob/dev/assets/images/karina_square2.png?raw=true"
+      "p1": "https://github.com/Gingene/2023hexschool-webdesign-project8-ai/blob/dev/assets/images/karina_square1.png?raw=true",
+      "p2": "https://github.com/Gingene/2023hexschool-webdesign-project8-ai/blob/dev/assets/images/karina_square2.png?raw=true"
     },
     "info": {
       "title": "歡迎來到ALPHABOX+的全新世界！在這裡，我們很榮幸地向您介紹我們的最新力作 - 3D立體投影機器人 Karina！",
@@ -73,8 +73,8 @@
     "type": "情感型",
     "function": "情感識別/心情分析/心靈支持",
     "image": {
-      "1": "https://github.com/Gingene/2023hexschool-webdesign-project8-ai/blob/dev/assets/images/vito_square1.png?raw=true",
-      "2": "https://github.com/Gingene/2023hexschool-webdesign-project8-ai/blob/dev/assets/images/vito_square2.png?raw=true"
+      "p1": "https://github.com/Gingene/2023hexschool-webdesign-project8-ai/blob/dev/assets/images/vito_square1.png?raw=true",
+      "p2": "https://github.com/Gingene/2023hexschool-webdesign-project8-ai/blob/dev/assets/images/vito_square2.png?raw=true"
     },
     "info": {
       "title": "歡迎來到ALPHABOX+的全新世界！在這裡，我們很榮幸地向您介紹我們的最新力作 - 3D立體投影機器人 Vito！",
